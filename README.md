@@ -1,6 +1,6 @@
 # 国内 ChatGPT 镜像网站免费推荐：支持 GPT-4 和 4o，无需魔法【1月持续更新】 
 
-> 作者: gptchinese &emsp;&emsp; 更新日期: 2025/1/2 
+> 作者: gptchinese &emsp;&emsp; 更新日期: 2025/1/3
 
 您是否想在国内使用ChatGPT？为此，我们整理了最新的国内可用 **ChatGPT 镜像网站**资源。 
 
